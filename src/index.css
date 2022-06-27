@@ -7,7 +7,7 @@ body {
   margin: 0;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  cursor: url('./cursor.png'), default;
+  cursor: url('assets/cursor.png'), default;
 }
 
 body::before {

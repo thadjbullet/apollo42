@@ -1,7 +1,6 @@
 import React, { useState } from 'react';
 import { Heart, Comment } from '../Icons'
-import eye from '../../eye.svg';
-import comment from '../../comment.svg';
+import eye from '../../assets/eye.svg';
 
 type Props = {
   imageSrc?: string;

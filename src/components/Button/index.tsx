@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import arrow from '../../arrow.png';
+import arrow from '../../assets/arrow.png';
 
 const Button = () => {
   const [click, setClick] = useState(false);
